@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XC0D3-X&label=Profile%20views&color=0e75b6&style=flat" alt="XC0D3-X" /> </p>
 
-##- 🌱 I’m currently learning :-
+- 🌱 I’m currently learning :-
    <br>
    **Mysql**
    <br>
