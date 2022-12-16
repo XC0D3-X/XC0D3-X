@@ -2,12 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XC0D3-X&label=Profile%20views&color=0e75b6&style=flat" alt="XC0D3-X" /> </p>
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning :-
+   <br>
    **Mysql**
+   <br>
    **Java**
+   <br>
    **PHP**
+   <br>
    **HTML**
+   <br>
    **CSS**
+   <br>
    **JavaScript**
 
 <h3 align="left">Favorite Languages And Tools:</h3>
