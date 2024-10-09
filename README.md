@@ -5,5 +5,5 @@ An electronic geek and web dev enthusiast. I enjoy building gadgets and dynamic 
 
 - 🔭 Currently working on: Kerajaan Langit
 - 🌱 Learning: Electronics and IoT technologies
-- 📫 Connect: [Telegram](t.me/harithwyd)
+- 📫 Connect: [Telegram](https://t.me/harithwyd)
 
