@@ -1,4 +1,4 @@
-# Hi, I'm Harith (Local7) 👋
+# Hi, I'm Harith 👋
 
 ## About Me
 An electronic geek and web dev enthusiast. I enjoy building gadgets and dynamic web applications.
